@@ -1,0 +1,15 @@
+input{
+    width: 300px;
+    height: 40px;
+    border-radius: 7px;
+}
+.form{
+    background-color: rgb(184, 167, 146);
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
+.password{
+    margin-right: 68px;
+}
